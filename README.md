@@ -1,1 +1,1 @@
-# bi2-kurzus-2021
+# data science 2022
