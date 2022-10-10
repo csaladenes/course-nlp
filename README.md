@@ -13,3 +13,8 @@ Code-first, hand-on approach
 - huggingface - (translation?)
 - fast.ai - (speech-to-text, text-to-speech)
 - Alexa use case presentation?
+
+### Introduction
+
+- Chomsky vs Norvig
+- Bitter Lessons - Richard Sutton
