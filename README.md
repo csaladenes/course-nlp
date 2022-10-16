@@ -54,3 +54,8 @@ Code-first, hand-on approach
 
 - LeCun vs Manning
 - Bitter Lessons - Richard Sutton
+
+### Might be useful
+
+https://towardsdatascience.com/how-to-compute-sentence-similarity-using-bert-and-word2vec-ab0663a5d64  
+https://towardsdatascience.com/semantic-textual-similarity-83b3ca4a840e
