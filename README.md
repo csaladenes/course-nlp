@@ -59,3 +59,4 @@ Code-first, hand-on approach
 
 https://towardsdatascience.com/how-to-compute-sentence-similarity-using-bert-and-word2vec-ab0663a5d64  
 https://towardsdatascience.com/semantic-textual-similarity-83b3ca4a840e
+https://www.kdnuggets.com/2022/11/getting-started-spacy-nlp.html
