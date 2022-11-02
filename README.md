@@ -9,7 +9,7 @@ Code-first, hand-on approach
 ### First Session
 - Introduction (1h)
   - Popular use cases
-  - Philosophical debate about how to model and improve language learnings
+  - Philosophical debate about how to model and improve language learning
 - Sentiment Analysis (scikit-learn + fast.ai) (2.5 h)
   - Dataset - IMDB reviews??
   - Cloud Service example - AWS Comprehend
@@ -33,7 +33,8 @@ Code-first, hand-on approach
 
 ### Third Session
 
-- ???
+- Zoltán és Orsolya 
+ - [Magyar nyelmodellek létrehozása és felhasználása a tartalomelemzésben](https://www.nyest.hu/hirek/apanak-munkaja-van-anyanak-teste)
 
 
 ### NLP libraries
