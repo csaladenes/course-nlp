@@ -34,7 +34,7 @@ Code-first, hand-on approach
 ### Third Session
 
 - Zoltán és Orsolya 
- - [Magyar nyelmodellek létrehozása és felhasználása a tartalomelemzésben](https://www.nyest.hu/hirek/apanak-munkaja-van-anyanak-teste)
+  - [Magyar nyelmodellek létrehozása és felhasználása a tartalomelemzésben](https://www.nyest.hu/hirek/apanak-munkaja-van-anyanak-teste)
 
 
 ### NLP libraries
