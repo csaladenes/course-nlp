@@ -6,38 +6,37 @@ Code-first, hand-on approach
 
 ## Topics
 
-- Introduction
-- scikit-learn - 
-- NLTK - (sentiment analysis)
-- spacy - (LDA/LSA)
-- huggingface - (translation?)
-- fast.ai - (speech-to-text, text-to-speech)
-- Alexa use case presentation?
+### First Session
+- Introduction (1h)
+  - Popular use cases
+  - Philosophical debate about how to model and improve language learnings
+- Sentiment Analysis (scikit-learn + fast.ai) (2.5 h)
+  - Dataset - IMDB reviews??
+  - Cloud Service example - AWS Comprehend
+  - bag-of-word approach
+  - Naive Bayes - using frequency counts
+  - Logistic Regression - Simple Neural Net - term-document matrix - unigram/n-grams
 
 
-### NLP Tasks
+- Topic Modeling - LSA/LDA ??
 
-- Part-of-speech tagging / Named entity recognition
-- Topic modeling (topic information extraction)
-- Text-to-speech (audio generation, sythesis)
-- Speech-to-text (speech recognition, transcription)
-- Sentiment classification/analysis
-- Language modeling (distribution based)
-- Translation
-- Text generation
-- Text summarization
-- Question answering
-- Semantic search and information retrieval
+### Second Session
 
-### NLP Tools
+- Word Vectors - dense matrix - latent space
+- Large Language Models - sequential models approach
+	 - large language models - scale/history
+	 - gains with - no limit in sight
+	 - fine-tuning
 
-- Regex
-- Tokenization
-- Word embeddings
-- Linear algebra/matrix decomposition
-- Neural nets
-- Hidden Markov Models
-- Parse trees
+- Semantic Search / Question Anserwing / Summarization
+- Improved Sentiment Analysis?
+
+- Bitter Lessons
+	 - classical ASR vs newer Whisper approach (Aircall usecase)
+
+### Third Session
+
+
 
 ### NLP libraries
 
@@ -50,10 +49,6 @@ Code-first, hand-on approach
 - PyText - deep learning framework for NLP (based on pyTorch)
 - fast.ai - deep learning library (based on pyTorch)
 
-### Introduction
-
-- LeCun vs Manning
-- Bitter Lessons - Richard Sutton
 
 ### Might be useful
 
