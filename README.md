@@ -16,26 +16,24 @@ Code-first, hand-on approach
   - bag-of-word approach
   - Naive Bayes - using frequency counts
   - Logistic Regression - Simple Neural Net - term-document matrix - unigram/n-grams
-
-
 - Topic Modeling - LSA/LDA ??
+- ???
 
 ### Second Session
 
 - Word Vectors - dense matrix - latent space
 - Large Language Models - sequential models approach
-	 - large language models - scale/history
-	 - gains with - no limit in sight
-	 - fine-tuning
-
+  - large language models - scale/history
+  - gains with - no limit in sight
+  - fine-tuning
 - Semantic Search / Question Anserwing / Summarization
 - Improved Sentiment Analysis?
-
 - Bitter Lessons
-	 - classical ASR vs newer Whisper approach (Aircall usecase)
+  - classical ASR vs newer Whisper approach (Aircall usecase)
 
 ### Third Session
 
+- ???
 
 
 ### NLP libraries
