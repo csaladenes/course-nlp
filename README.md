@@ -55,6 +55,6 @@ https://towardsdatascience.com/how-to-compute-sentence-similarity-using-bert-and
 https://towardsdatascience.com/semantic-textual-similarity-83b3ca4a840e
 https://www.kdnuggets.com/2022/11/getting-started-spacy-nlp.html
 
-## Text folder
+## Drive folder - notebook & text files
 
 https://drive.google.com/drive/folders/11FdU2aY3atYFES2gSnukyKBLEwPYeRAo?usp=sharing
