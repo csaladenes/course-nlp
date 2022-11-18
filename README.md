@@ -62,3 +62,4 @@ https://drive.google.com/drive/folders/11FdU2aY3atYFES2gSnukyKBLEwPYeRAo?usp=sha
 ## Links
 - https://pair.withgoogle.com/explorables/measuring-fairness/
 - https://www.geogebra.org/m/xC6zq7Zv
+- https://books.google.com/talktobooks/
