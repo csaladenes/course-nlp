@@ -58,3 +58,6 @@ https://www.kdnuggets.com/2022/11/getting-started-spacy-nlp.html
 ## Drive folder - notebook & text files
 
 https://drive.google.com/drive/folders/11FdU2aY3atYFES2gSnukyKBLEwPYeRAo?usp=sharing
+
+## Links
+- https://pair.withgoogle.com/explorables/measuring-fairness/
