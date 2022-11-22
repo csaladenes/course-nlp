@@ -6,32 +6,76 @@ Code-first, hand-on approach
 
 ## Topics
 
-### First Session
+### First Session (Nov 4 - 5)
 - Introduction (1h)
   - Popular use cases
   - Philosophical debate about how to model and improve language learning
 - Sentiment Analysis (scikit-learn + fast.ai) (2.5 h)
-  - Dataset - IMDB reviews??
+  - Dataset - IMDB reviews
   - Cloud Service example - AWS Comprehend
   - bag-of-word approach
   - Naive Bayes - using frequency counts
-  - Logistic Regression - Simple Neural Net - term-document matrix - unigram/n-grams
-- Topic Modeling - LSA/LDA ??
-- ???
+- Topic Modeling - LSA/LDA
 
-### Second Session
+### Second Session (Nov 18 - 19)
 
-- Word Vectors - dense matrix - latent space
-- Large Language Models - sequential models approach
-  - large language models - scale/history
-  - gains with - no limit in sight
-  - fine-tuning
-- Semantic Search / Question Anserwing / Summarization
-- Improved Sentiment Analysis?
-- Bitter Lessons
-  - classical ASR vs newer Whisper approach (Aircall usecase)
+Block 1
+ 
+	Introductions
+	Recap 
+		- use cases of NLP (Notion AI, Aircall voicemail transcription)
+		- exercise: sentiment analysis of imdb movie reviews
+		- solution tiers: 
+			- bag-of-words models (Naicve Bayes, Logistic Regression)
+			- sequential models (Language Models, RNN, Transformers)
+	Evaluation - theory
+		- accuracy, False Positives/False Negatives
+		- F1 score, ROC - AUC
+		- sklearn DummyClassifier
+	Recap
+		- Naive Bayes method for sentiment analysis
 
-### Third Session
+Block 2
+	
+	Vectorization and GPUs - theory
+	Linear regression - theory
+		- interactive website
+	Logistic Regression - notebook
+		- sigmoid, log-loss
+		- term-dcoument matrix, sparse matrix
+		- tokenization and vocabulary
+		- N-Grams
+	Talk to books - by google - NLP use case
+
+Block 3
+
+	Recap 
+		- Logistic Regression method for sentiment analysis
+	Sequential models - theory
+		- RNN
+		- Attention mechanism
+		- Transformers
+	Word Vector/Word Embeddings - theory and intution
+	Word Embeddings - notebook 
+	
+Block 4
+
+	Language Models - theory
+	Pre-trained transformer fine-tuning - notebook
+		- tokenization
+		- hidden state extraction
+		- feature matrix and Logistic Regression
+		- HuggingFace pipelines - high level library
+
+	Whisper - notebook
+		- open source ASR
+		- record voice - transcribe - translate
+		- translation
+		- Why is this model so good?
+			- trained on multiple related tasks translation-transcription
+			- trained on multiple languages
+
+### Third Session (Dec  9 - 10)
 
 - Zoltán és Orsolya 
   - [Magyar nyelmodellek létrehozása és felhasználása a tartalomelemzésben](https://www.nyest.hu/hirek/apanak-munkaja-van-anyanak-teste)
