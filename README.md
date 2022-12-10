@@ -79,6 +79,8 @@ Block 4
 
 - Zoltán és Orsolya 
   - [Magyar nyelmodellek létrehozása és felhasználása a tartalomelemzésben](https://www.nyest.hu/hirek/apanak-munkaja-van-anyanak-teste)
+  - https://github.com/crow-intelligence/mccLMs
+  - https://www.nyest.hu/hirek/a-gep-az-ember-tukre
 
 
 ### NLP libraries
